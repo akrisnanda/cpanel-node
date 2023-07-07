@@ -1,4 +1,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/akrf2822/test-node/
-    - /bin/cp .test2.txt $DEPLOYPATH
+    - /bin/cp test2.txt $DEPLOYPATH
