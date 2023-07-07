@@ -2,3 +2,4 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/akrf2822/test-node/
     - /bin/cp app.js $DEPLOYPATH
+    - /bin/node /home/akrf2822/test-node/app.js
